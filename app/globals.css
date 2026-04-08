@@ -20,6 +20,12 @@ body {
   overflow-x: hidden;
 }
 
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #111;
+}
+
 body {
   min-height: 100%;
   display: flex;
